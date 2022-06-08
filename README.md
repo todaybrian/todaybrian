@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-This Readme is currently a work in progress. Check back later for more content!
+
+
 <!--
 **todaybrian/todaybrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
