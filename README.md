@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+I'm an incoming UWaterloo Computer Science Student expecting to graduate in 2028. 
 
 <!--
 **todaybrian/todaybrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
