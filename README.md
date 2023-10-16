@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an first year UWaterloo Computer Science Student expecting to graduate in 2028. I strive to create tomorrow's solutions.
+I'm a first year UWaterloo Computer Science Student expecting to graduate in 2028. I strive to create tomorrow's solutions.
 
 <!--
 **todaybrian/todaybrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
